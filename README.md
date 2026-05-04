@@ -1,6 +1,6 @@
 # Bitcoin-Fraud-Analysis-Blockchain-Investigation
 
-This project presents an OSINT-based blockchain analysis focused on a Bitcoin address reported in multiple fraud-related incidents, specifically sextortion and blackmail schemes.
+This project presents a blockchain analysis focused on a Bitcoin address reported in multiple fraud-related incidents, specifically sextortion and blackmail schemes.
 
 The objective of the investigation is to analyze transaction behavior, identify indicators of compromise (IOCs), and evaluate the feasibility of attribution using publicly available data.
 
